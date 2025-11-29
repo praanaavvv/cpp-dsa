@@ -4,5 +4,5 @@ project(cpp_dsa)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_dsa
-        pattern.cpp
-        utils.h)
+        utils.h
+        countdigits.cpp)
