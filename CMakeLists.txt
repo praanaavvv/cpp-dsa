@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_dsa
         utils.h
-        countdigits.cpp)
+        palindrome_maths.cpp)
