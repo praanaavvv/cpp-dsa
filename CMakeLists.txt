@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_dsa
         utils.h
-        divisors_of_number.cpp)
+
+        recursion_one_to_n.cpp
+)
