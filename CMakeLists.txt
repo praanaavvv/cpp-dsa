@@ -5,7 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_dsa
         utils.h
-
-
-        n_to_one_recursion.cpp
+        n_sum_recursion.cpp
 )
