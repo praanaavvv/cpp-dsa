@@ -7,4 +7,5 @@ add_executable(cpp_dsa
         utils.h
 
         factorial.cpp
+        reverse_an_array_recursion.cpp
 )
