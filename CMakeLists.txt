@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(cpp_dsa
         utils.h
 
-        factorial.cpp
-        reverse_an_array_recursion.cpp
+
+        pallindrome_string_recursion.cpp
 )
