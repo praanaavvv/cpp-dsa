@@ -5,7 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_dsa
         utils.h
-
-
-        pallindrome_string_recursion.cpp
+        "fibonacci.cpp"
 )
