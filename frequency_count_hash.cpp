@@ -6,7 +6,7 @@
 #include<unordered_map>
 using namespace std;
 
-int frequency(const vector<int>& num) {
+void  frequency(const vector<int>& num) {
     unordered_map<int,int> freq;
     for (int x: num) {
         freq[x]++;
