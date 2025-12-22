@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_dsa
         utils.h
-        "fibonacci.cpp"
+        frequency_count_hash.cpp
 )
